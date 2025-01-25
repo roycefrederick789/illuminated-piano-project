@@ -3,7 +3,7 @@
 This is a project to build a user-friendly piano prototype. The prototype is able to read music sheet scores and guide the user in playing piano through LED lights attached to each key.
 
 The following flowchart describes our project piano prototype.
-![Piano Prototype Flowchart](flowchart/piano-prototype.png)
+![Piano Prototype Flowchart](flowchart/piano-prototype.jpg)
 
 Description of the code:
 img-to-midi.py: a code to convert music sheet scores from image file to midi format file.

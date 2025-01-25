@@ -6,10 +6,10 @@ The following flowchart describes our project piano prototype.
 ![Piano Prototype Flowchart](flowchart/piano-prototype.jpg)
 
 Description of the code:
-img-to-midi.py: a code to convert music sheet scores from image file to midi format file.
-midi-to-esp.py: a code to load MIDI file and transmit music note data to an esp32 that is connected to laptop.
-main.py: a code that integrate img-to-midi.py and midi-to-esp.py.
-piano-led.ino: a code to control LED lights on a piano based on note data send by python program.
+- img-to-midi.py: a code to convert music sheet scores from image file to midi format file.
+- midi-to-esp.py: a code to load MIDI file and transmit music note data to an esp32 that is connected to laptop.
+- main.py: a code that integrate img-to-midi.py and midi-to-esp.py.
+- piano-led.ino: a code to control LED lights on a piano based on note data send by python program.
 
 
 ### Acknowledgment
